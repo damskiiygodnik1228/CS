@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u041A\u041F \u0438 \u042F\u041F\\\u041B\u04201\\task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6749BC-2509-48EE-A8FE-7A7D104D1CD8}|task3\\task3.csproj|c:\\\u043A\u043F \u0438 \u044F\u043F\\\u043B\u04401\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6749BC-2509-48EE-A8FE-7A7D104D1CD8}|task3\\task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\\u041A\u041F \u0438 \u042F\u041F\\\u041B\u04201\\task3\\task3\\Program.cs",
+              "RelativeDocumentMoniker": "task3\\Program.cs",
+              "ToolTip": "C:\\\u041A\u041F \u0438 \u042F\u041F\\\u041B\u04201\\task3\\task3\\Program.cs*",
+              "RelativeToolTip": "task3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T08:13:51.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

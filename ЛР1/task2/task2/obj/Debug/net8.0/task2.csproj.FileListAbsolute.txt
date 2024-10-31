@@ -1,0 +1,14 @@
+C:\КП и ЯП\ЛР1\task2\task2\bin\Debug\net8.0\task2.exe
+C:\КП и ЯП\ЛР1\task2\task2\bin\Debug\net8.0\task2.deps.json
+C:\КП и ЯП\ЛР1\task2\task2\bin\Debug\net8.0\task2.runtimeconfig.json
+C:\КП и ЯП\ЛР1\task2\task2\bin\Debug\net8.0\task2.dll
+C:\КП и ЯП\ЛР1\task2\task2\bin\Debug\net8.0\task2.pdb
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.AssemblyInfoInputs.cache
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.AssemblyInfo.cs
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.csproj.CoreCompileInputs.cache
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.dll
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\refint\task2.dll
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.pdb
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\task2.genruntimeconfig.cache
+C:\КП и ЯП\ЛР1\task2\task2\obj\Debug\net8.0\ref\task2.dll

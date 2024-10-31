@@ -1,0 +1,4 @@
+C:\КП и ЯП\лр1\лр1\obj\Debug\net8.0\лр1.GeneratedMSBuildEditorConfig.editorconfig
+C:\КП и ЯП\лр1\лр1\obj\Debug\net8.0\лр1.AssemblyInfoInputs.cache
+C:\КП и ЯП\лр1\лр1\obj\Debug\net8.0\лр1.AssemblyInfo.cs
+C:\КП и ЯП\лр1\лр1\obj\Debug\net8.0\лр1.csproj.CoreCompileInputs.cache
